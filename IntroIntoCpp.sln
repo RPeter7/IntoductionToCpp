@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Generics_Sergyan", "Generic
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataStructures", "DataStructures\DataStructures.vcxproj", "{2D3103F4-76E0-474C-93DD-190980B6DF97}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppSummary_Example", "CppSummary_Example\CppSummary_Example.vcxproj", "{B841745F-07A0-4353-818F-8DA974EA7863}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{2D3103F4-76E0-474C-93DD-190980B6DF97}.Release|x64.Build.0 = Release|x64
 		{2D3103F4-76E0-474C-93DD-190980B6DF97}.Release|x86.ActiveCfg = Release|Win32
 		{2D3103F4-76E0-474C-93DD-190980B6DF97}.Release|x86.Build.0 = Release|Win32
+		{B841745F-07A0-4353-818F-8DA974EA7863}.Debug|x64.ActiveCfg = Debug|x64
+		{B841745F-07A0-4353-818F-8DA974EA7863}.Debug|x64.Build.0 = Debug|x64
+		{B841745F-07A0-4353-818F-8DA974EA7863}.Debug|x86.ActiveCfg = Debug|Win32
+		{B841745F-07A0-4353-818F-8DA974EA7863}.Debug|x86.Build.0 = Debug|Win32
+		{B841745F-07A0-4353-818F-8DA974EA7863}.Release|x64.ActiveCfg = Release|x64
+		{B841745F-07A0-4353-818F-8DA974EA7863}.Release|x64.Build.0 = Release|x64
+		{B841745F-07A0-4353-818F-8DA974EA7863}.Release|x86.ActiveCfg = Release|Win32
+		{B841745F-07A0-4353-818F-8DA974EA7863}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
